@@ -1,2 +1,0 @@
-# vidsx
-Bokepers lu
