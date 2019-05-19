@@ -38,6 +38,7 @@ if [ $King = 1 ] || [ $King = 01 ]
 then
 figlet "CHINA" | lolcat
 echo $blue "DASAR BOKEPERS"
+sh hay.sh
 termux-setup-storage
 sleep 4
 echo $blue"BENTAR ANJING!!!"
@@ -82,6 +83,8 @@ if [ $King = 2 ] || [ $King = 02 ]
 then
 figlet "Jepang" | lolcat
 echo $blue "DASAR BOKEPERS"
+echo $yellow "SABAR CUK"
+sh hay.sh
 termux-setup-storage
 sleep 4
 echo $blue"BENTAR ANJING!!!"
